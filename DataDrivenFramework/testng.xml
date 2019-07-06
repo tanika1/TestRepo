@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<!--<listeners>
+      <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners> -->
+  
+ <listeners>
+		<listener class-name="org.automation.yatra.reporting.ExtentListener" />
+	</listeners>  
+	
+  <test  name="Test">
+    <classes>
+      <class name="org.automation.yatra.testcases.TC001_ValidatingLoginFunctionality"/>  
+     <!-- <class name="org.automation.yatra.testcases.TC002_RegisterNewUser"/> -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-06-25T04:23:24Z" name="Suite" finished-at="2019-06-25T04:24:05Z" duration-ms="41151">
+    <groups>
+    </groups>
+    <test started-at="2019-06-25T04:23:24Z" name="Test" finished-at="2019-06-25T04:24:05Z" duration-ms="41151">
+      <class name="org.automation.yatra.testcases.TC001_ValidatingLoginFunctionality">
+        <test-method is-config="true" signature="initiateDriverInstance()[pri:0, instance:org.automation.yatra.testcases.TC001_ValidatingLoginFunctionality@23f7d05d]" started-at="2019-06-25T04:23:25Z" name="initiateDriverInstance" finished-at="2019-06-25T04:23:33Z" duration-ms="8808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method signature="tc_001_login_functionality(java.lang.String, java.lang.String)[pri:0, instance:org.automation.yatra.testcases.TC001_ValidatingLoginFunctionality@23f7d05d]" started-at="2019-06-25T04:23:33Z" name="tc_001_login_functionality" data-provider="Excel" finished-at="2019-06-25T04:23:34Z" duration-ms="347" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_login_functionality -->
+        <test-method is-config="true" signature="closeDriverInstance()[pri:0, instance:org.automation.yatra.testcases.TC001_ValidatingLoginFunctionality@23f7d05d]" started-at="2019-06-25T04:23:34Z" name="closeDriverInstance" finished-at="2019-06-25T04:23:35Z" duration-ms="1669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method is-config="true" signature="initiateDriverInstance()[pri:0, instance:org.automation.yatra.testcases.TC001_ValidatingLoginFunctionality@23f7d05d]" started-at="2019-06-25T04:23:35Z" name="initiateDriverInstance" finished-at="2019-06-25T04:23:42Z" duration-ms="6596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method signature="tc_001_login_functionality(java.lang.String, java.lang.String)[pri:0, instance:org.automation.yatra.testcases.TC001_ValidatingLoginFunctionality@23f7d05d]" started-at="2019-06-25T04:23:42Z" name="tc_001_login_functionality" data-provider="Excel" finished-at="2019-06-25T04:23:42Z" duration-ms="375" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_login_functionality -->
+        <test-method is-config="true" signature="closeDriverInstance()[pri:0, instance:org.automation.yatra.testcases.TC001_ValidatingLoginFunctionality@23f7d05d]" started-at="2019-06-25T04:23:42Z" name="closeDriverInstance" finished-at="2019-06-25T04:23:44Z" duration-ms="1305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method is-config="true" signature="initiateDriverInstance()[pri:0, instance:org.automation.yatra.testcases.TC001_ValidatingLoginFunctionality@23f7d05d]" started-at="2019-06-25T04:23:44Z" name="initiateDriverInstance" finished-at="2019-06-25T04:23:52Z" duration-ms="8323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method signature="tc_001_login_functionality(java.lang.String, java.lang.String)[pri:0, instance:org.automation.yatra.testcases.TC001_ValidatingLoginFunctionality@23f7d05d]" started-at="2019-06-25T04:23:52Z" name="tc_001_login_functionality" data-provider="Excel" finished-at="2019-06-25T04:23:52Z" duration-ms="400" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_login_functionality -->
+        <test-method is-config="true" signature="closeDriverInstance()[pri:0, instance:org.automation.yatra.testcases.TC001_ValidatingLoginFunctionality@23f7d05d]" started-at="2019-06-25T04:23:52Z" name="closeDriverInstance" finished-at="2019-06-25T04:23:54Z" duration-ms="1248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method is-config="true" signature="initiateDriverInstance()[pri:0, instance:org.automation.yatra.testcases.TC001_ValidatingLoginFunctionality@23f7d05d]" started-at="2019-06-25T04:23:54Z" name="initiateDriverInstance" finished-at="2019-06-25T04:24:03Z" duration-ms="8905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method signature="tc_001_login_functionality(java.lang.String, java.lang.String)[pri:0, instance:org.automation.yatra.testcases.TC001_ValidatingLoginFunctionality@23f7d05d]" started-at="2019-06-25T04:24:03Z" name="tc_001_login_functionality" data-provider="Excel" finished-at="2019-06-25T04:24:04Z" duration-ms="1361" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_login_functionality -->
+        <test-method is-config="true" signature="closeDriverInstance()[pri:0, instance:org.automation.yatra.testcases.TC001_ValidatingLoginFunctionality@23f7d05d]" started-at="2019-06-25T04:24:04Z" name="closeDriverInstance" finished-at="2019-06-25T04:24:05Z" duration-ms="1045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+      </class> <!-- org.automation.yatra.testcases.TC001_ValidatingLoginFunctionality -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
